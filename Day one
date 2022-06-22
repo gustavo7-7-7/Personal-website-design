@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <h1><em>Gustavo Rossi</em></h1>
+  </head>
+  <body>
+    <p>Hello, my name is
+       <h1>Gustavo Rossi.</h1>
+    </p>
+      <main>
+        <section>
+          <p>
+          <h2>I'm a web app builder</h2>
+          A front-end web developer jr,<br> living in Cravinhos-sp,<br> with specialties on websites.
+          </p>
+          <ol>
+            <li><a href="#Chapter1"><strong> About me</strong></a></li>
+            <li><a href="#Chapter2"><strong> Experience</strong></a></li>
+            <li><a href="#Chapter3"><strong> Projects</strong><a></li> 
+            <li><a href="#Chapter4"><strong> Contact</strong></a></li>
+          </ol>
+        </section>
+        <section>
+          <a id="Chapter1" name="Chapter1"> About me</a>
+          <p>My first contact with code was during my engineering degree in 2017, exclusively in python, which intrigued me for the logical issues.<br>
+          From this period until today, there were major changes that permeated between studying food engineering to a recent degree in gastronomy.<br>
+          As I am a resilient and curious person, I decided to switch to the information technology area, specifically to work directly with the creation of code for the taste of reasoning and applied logic, besides its infinite amplitude, mainly for the daily challenges.<br>
+          As I was saying before, my interaction with code came about in 2017, however it was a sporadic experience, which is now in great evolution, with a focus on technologies such as : 
+          </p> 
+          <ul>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>React</li>
+            <li>React Native</li>
+            <li>Expo</li>
+            <li>Next.js</li>
+            <li>TailwindCSS</li>
+          </ul>
+        </section>
+        <section> 
+          <a id="Chapter2" name="Chapter2"> Experience</a>
+          <p>At the moment my experience with web development is beginner, with no practical experience in companies, only study.<br.>
+And in the business part I have experience in sales, commerce, team leadership, due to my learning at Aiesec Brasil and in the restaurants I worked.</p>        
+        </section>
+        <section>
+          <a id="Chapter3" name="Chapter3"> Projects</a>
+          <fieldset>
+            <p><strong>Calculator Project - coming soon.</strong></p>
+          </fieldset>  
+          <fieldset>
+            <p><strong>To-Do List Project - coming soon.</strong></p>
+          </fieldset>
+          <fieldset>
+            <p><strong>Draft calendar - coming soon</strong></p></fieldset><br><br><br>
+        </section>
+        <section>
+          <a id="Chapter4" name="Chapter4"> Contact</a><br>
+          <a href="https://www.linkedin.com/in/gustavo-henrique-rossi-546552242/"> My Linkedin</a><br>
+          <a href="https://github.com/gustavo7-7-7"> My github</a>
+          <p>My email: gustavohr.rossi@gmail.com</p>
+          <p>My cell number: +55 (16) 98259-5332</p>
+        </section>
+    </main>
+    <footer>
+      <p>Copyright <a href="https://www.linkedin.com/in/gustavo-henrique-rossi-546552242/"> Gustavo Rossi</a></p>
+    </footer>
+  </body>
+</html>
